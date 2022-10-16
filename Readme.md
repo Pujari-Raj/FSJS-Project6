@@ -16,7 +16,7 @@ Technologies/ Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href="">
+<a href="https://pujari-project6.netlify.app/">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 
@@ -25,6 +25,8 @@ Learnings from this projects:-
 * How to Add GoogleFonts to webpage.
 * Different CSS properties.
 
+&nbsp;
+![Project-Image](./Screenshots/Project-6-ss.png "Title is optional")
 
 
 ## Time Taken to complete this project was 3 days.
