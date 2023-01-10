@@ -1,4 +1,4 @@
-# Live Class Project6
+# Live Class Project-6
 
 Project- MONSTERA-Landing Page
 
